@@ -1,0 +1,20 @@
+[
+    {
+    "userId":"rirani",
+    "firstName":"Romin",
+    "lastName":"Irani",
+    "emailAddress":"romin.k.irani@gmail.com"
+    },
+    {
+    "userId":"nirani",
+    "firstName":"Neil",
+    "lastName":"Irani",
+    "emailAddress":"neilrirani@gmail.com"
+    },
+    {
+    "userId":"thanks",
+    "firstName":"Tom",
+    "lastName":"Hanks",
+    "emailAddress":"tomhanks@gmail.com"
+    }
+]
